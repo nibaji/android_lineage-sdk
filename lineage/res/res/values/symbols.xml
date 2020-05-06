@@ -169,4 +169,7 @@
 
     <!-- Notch -->
     <java-symbol type="bool" name="config_haveNotch" />
+
+    <!-- Smaller dot/u/v Notch -->
+    <java-symbol type="bool" name="config_haveDotNotch" />
 </resources>
